@@ -1,19 +1,16 @@
+--
 ## IDENTIFICACIÓN DEL SERVICIO
 ### SERVICIO DE CONFIGURADORES DEL SISTEMA DE CONTABILIDAD Y PRESUPUESTO EN LA SECRETARIA DE AGRICULTURA.
 Tipo: Interno
 Área: Subdirección de Operación de Sistemas de Control Presupuestal
 Nomenclatura: DGTIC/DSSD/513.01.04.02
---
+
 ## FRONTSTAGE
---
 ## DESCRIPCIÓN DEL SERVICIO
 Servicio mediante el cual los servidores públicos en la Secretaria de Agricultura designados como “Configuradores” de las dependencias del sector central de la Administración Pública Federal (APF), podrá realizar las funciones más relevantes del Sistema de Contabilidad y Presupuesto (SICOP).
-
-
-
-
-
+--
 ## REQUISITOS PARA SOLICITAR
+--
 1) Para ejecución de altas de usuarios es obligatorio el integrar la carta responsiva y layout de ABC de usuarios turnada por la Dirección General de Programación, Presupuesto y Finanzas (UR 510) que se recibe por medio de la Mesa de Servicios a través de un correo electrónico a la cuenta mesa.servicios@agricultura.gob.mx.
 ### Información del usuario responsable que solicita el servicio:
 - Nombre Completo
@@ -40,7 +37,7 @@ Servicio mediante el cual los servidores públicos en la Secretaria de Agricultu
 
 5) Asignación  de folio identificador de SICOP para beneficiarios (proveedores) y viáticos, se recibe por medio de la Mesa de Servicios a través de un correo electrónico a la cuenta mesa.servicios@agricultura.gob.mx.
     
-    5a) Nombre de la razón social o nombre del proveedor y RFC con homoclave.
+    a) Nombre de la razón social o nombre del proveedor y RFC con homoclave.
 
 6) Altas, bajas y cambios en el catálogo de firmas de Cuentas por Liquidar, se recibe por medio de la Mesa de Servicios a través de un correo electrónico a la cuenta mesa.servicios@agricultura.gob.mx.
 
@@ -52,12 +49,10 @@ Servicio mediante el cual los servidores públicos en la Secretaria de Agricultu
 - ABC de usuarios: [Layout de usuarios:](https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true](https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true))  
 --
 - ABC de usuarios: [Layout de viaticantes](https://docs.google.com/spreadsheets/d/11F26M4w7knHbyEhyBojyHCGRbRoWOPhc/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/11F26M4w7knHbyEhyBojyHCGRbRoWOPhc/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true))
---
+
 - ABC de vehículos: [Layout de vehículos](https://docs.google.com/spreadsheets/d/1MIVSN9EAw6E4g70M705p7LVD_GTpxqGJ/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)  [![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/servicios_dgtic/bullets/btn_descarga.png)](https://docs.google.com/spreadsheets/d/1MIVSN9EAw6E4g70M705p7LVD_GTpxqGJ/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
 - ABC de firmas de Adecuaciones Presupuestarias: [Layout de firmas de Adecuaciones Presupuestarias](https://docs.google.com/spreadsheets/d/16YP3nGGqFjXU_H0rZAwIXOJ1b8QM9RhI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)  [![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/servicios_dgtic/bullets/btn_descarga.png)](https://docs.google.com/spreadsheets/d/16YP3nGGqFjXU_H0rZAwIXOJ1b8QM9RhI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
-
---
-   **![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/plantilla/gris-quien.png)   
+![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/plantilla/gris-quien.png)   
 ## ¿Quién puede solicitar el servicio?
 - Todo personal de las Unidades de recursos Financieros, Presupuestarios y Contables de las áreas administrativas adscritas a la Secretaría de Agricultura.
    **![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/plantilla/gris-como.png)   CÓMO SOLICITAR EL SERVICIO**
@@ -68,9 +63,8 @@ Servicio mediante el cual los servidores públicos en la Secretaria de Agricultu
 
 **3**. Finalmente, se enviará mediante correo electrónico del usuario responsable, un número de folio para dar seguimiento a la solicitud.
 
----
 
-   *![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/plantilla/gris-tiempo.png)  
+   ![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/plantilla/gris-tiempo.png)  
    
 ## TIEMPO DE ATENCIÓN
 
@@ -78,13 +72,11 @@ Servicio mediante el cual los servidores públicos en la Secretaria de Agricultu
 
 - Una vez enviada la solicitud, el personal asignado dará respuesta en un tiempo máximo  de un día hábil.
 
----
-
 **![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/plantilla/gris-quien.png)   Para más información o dudas**
 - Envía un correo a [mesa.servicios@agricultura.gob.mx](mailto:mesa.servicios@agricultura.gob.mx)  **[![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/servicios_dgtic/bullets/btn_ventana.png)](mailto:mesa.servicios@agricultura.gob.mx)** o comunícate a la extensión 40911.
 
-
+---
 ## BACKSTAGE
-
+---
 1.- Encuesta de Nivel de servicio (entregas a tiempo)
 
