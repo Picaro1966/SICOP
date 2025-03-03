@@ -1,16 +1,14 @@
---
 ## IDENTIFICACIÓN DEL SERVICIO
 ### SERVICIO DE CONFIGURADORES DEL SISTEMA DE CONTABILIDAD Y PRESUPUESTO EN LA SECRETARIA DE AGRICULTURA.
 Tipo: Interno
 Área: Subdirección de Operación de Sistemas de Control Presupuestal
 Nomenclatura: DGTIC/DSSD/513.01.04.02
-
+--
 ## FRONTSTAGE
 ## DESCRIPCIÓN DEL SERVICIO
 Servicio mediante el cual los servidores públicos en la Secretaria de Agricultura designados como “Configuradores” de las dependencias del sector central de la Administración Pública Federal (APF), podrá realizar las funciones más relevantes del Sistema de Contabilidad y Presupuesto (SICOP).
 --
 ## REQUISITOS PARA SOLICITAR
---
 1) Para ejecución de altas de usuarios es obligatorio el integrar la carta responsiva y layout de ABC de usuarios turnada por la Dirección General de Programación, Presupuesto y Finanzas (UR 510) que se recibe por medio de la Mesa de Servicios a través de un correo electrónico a la cuenta mesa.servicios@agricultura.gob.mx.
 ### Información del usuario responsable que solicita el servicio:
 - Nombre Completo
