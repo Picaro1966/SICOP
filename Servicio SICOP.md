@@ -3,15 +3,15 @@
 Tipo: Interno
 Área: Subdirección de Operación de Sistemas de Control Presupuestal
 Nomenclatura: DGTIC/DSSD/513.01.04.02
-
+--
 ## FRONTSTAGE
 
  DESCRIPCIÓN DEL SERVICIO
 Servicio mediante el cual los servidores públicos en la Secretaria de Agricultura designados como “Configuradores” de las dependencias del sector central de la Administración Pública Federal (APF), podrá realizar las funciones más relevantes del Sistema de Contabilidad y Presupuesto (SICOP).
 
----
+--
 
----
+
 
 ## REQUISITOS PARA SOLICITAR
 1) Para ejecución de altas de usuarios es obligatorio el integrar la carta responsiva y layout de ABC de usuarios turnada por la Dirección General de Programación, Presupuesto y Finanzas (UR 510) que se recibe por medio de la Mesa de Servicios a través de un correo electrónico a la cuenta mesa.servicios@agricultura.gob.mx.
@@ -50,16 +50,15 @@ Servicio mediante el cual los servidores públicos en la Secretaria de Agricultu
 - Manifiesto de responsabilidad: [Carta responsiva](https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true](https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true))  
 
 - ABC de usuarios: [Layout de usuarios:](https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true](https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true))  
----
+--
 - ABC de usuarios: [Layout de viaticantes](https://docs.google.com/spreadsheets/d/11F26M4w7knHbyEhyBojyHCGRbRoWOPhc/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/11F26M4w7knHbyEhyBojyHCGRbRoWOPhc/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true))
----
+--
 - ABC de vehículos: [Layout de vehículos](https://docs.google.com/spreadsheets/d/1MIVSN9EAw6E4g70M705p7LVD_GTpxqGJ/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)  [![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/servicios_dgtic/bullets/btn_descarga.png)](https://docs.google.com/spreadsheets/d/1MIVSN9EAw6E4g70M705p7LVD_GTpxqGJ/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
 - ABC de firmas de Adecuaciones Presupuestarias: [Layout de firmas de Adecuaciones Presupuestarias](https://docs.google.com/spreadsheets/d/16YP3nGGqFjXU_H0rZAwIXOJ1b8QM9RhI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)  [![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/servicios_dgtic/bullets/btn_descarga.png)](https://docs.google.com/spreadsheets/d/16YP3nGGqFjXU_H0rZAwIXOJ1b8QM9RhI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
 
----
-
+--
    **![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/plantilla/gris-quien.png)   
-  ¿Quién puede solicitar el servicio?
+## ¿Quién puede solicitar el servicio?
 - Todo personal de las Unidades de recursos Financieros, Presupuestarios y Contables de las áreas administrativas adscritas a la Secretaría de Agricultura.
    **![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/plantilla/gris-como.png)   CÓMO SOLICITAR EL SERVICIO**
 
@@ -71,7 +70,9 @@ Servicio mediante el cual los servidores públicos en la Secretaria de Agricultu
 
 ---
 
-   **![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/plantilla/gris-tiempo.png)   TIEMPO DE ATENCIÓN
+   *![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/plantilla/gris-tiempo.png)  
+   
+## TIEMPO DE ATENCIÓN
 
 - El horario de atención y recepción de solicitudes es de lunes a viernes de 09:00hrs a 19:00hrs.
 
