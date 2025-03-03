@@ -49,15 +49,12 @@ Servicio mediante el cual los servidores públicos en la Secretaria de Agricultu
 ### Documentos requeridos:
 - Manifiesto de responsabilidad: [Carta responsiva](https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true](https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true))  
 
+- ABC de usuarios: [Layout de usuarios:](https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true](https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true))  
+---
+- ABC de usuarios: [Layout de viaticantes](https://docs.google.com/spreadsheets/d/11F26M4w7knHbyEhyBojyHCGRbRoWOPhc/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/11F26M4w7knHbyEhyBojyHCGRbRoWOPhc/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true))
+---
 
-
-- ABC de usuarios: [Layout de usuarios:] (https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true](https://docs.google.com/document/d/1HH1tIo1WJ1A0SdRRofnjgWICBSQobGFI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true))  
-(ABC de viaticantes: [Layout de viaticantes](https://drive.google.com/file/d/1hRW_4SZ06ihs-X4Lt_v0trc7pdcph_tk/view?usp=drive_link](https://drive.google.com/file/d/1hRW_4SZ06ihs-X4Lt_v0trc7pdcph_tk/view?usp=drive_link)  [![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/servicios_dgtic/bullets/btn_descarga.png)](https://drive.google.com/file/d/1hRW_4SZ06ihs-X4Lt_v0trc7pdcph_tk/view?usp=drive_link)
-
-
-- ABC de usuarios: [Layout de viaticantes](https://docs.google.com/spreadsheets/d/11F26M4w7knHbyEhyBojyHCGRbRoWOPhc/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/11F26M4w7knHbyEhyBojyHCGRbRoWOPhc/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true))  
-
-- ABC de vehículos: [Layout de vehículos](https://docs.google.com/spreadsheets/d/1MIVSN9EAw6E4g70M705p7LVD_GTpxqGJ/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)  [![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/servicios_dgtic/bullets/btn_descarga.png)](https://docs.google.com/spreadsheets/d/1MIVSN9EAw6E4g70M705p7LVD_GTpxqGJ/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
+- - ABC de vehículos: [Layout de vehículos](https://docs.google.com/spreadsheets/d/1MIVSN9EAw6E4g70M705p7LVD_GTpxqGJ/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)  [![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/servicios_dgtic/bullets/btn_descarga.png)](https://docs.google.com/spreadsheets/d/1MIVSN9EAw6E4g70M705p7LVD_GTpxqGJ/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
 - ABC de firmas de Adecuaciones Presupuestarias: [Layout de firmas de Adecuaciones Presupuestarias](https://docs.google.com/spreadsheets/d/16YP3nGGqFjXU_H0rZAwIXOJ1b8QM9RhI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)  [![](https://intranet.agricultura.gob.mx/sites/default/files/intranet/images/servicios_dgtic/bullets/btn_descarga.png)](https://docs.google.com/spreadsheets/d/16YP3nGGqFjXU_H0rZAwIXOJ1b8QM9RhI/edit?usp=drive_link&ouid=109952300900615467549&rtpof=true&sd=true)
 
 ---
